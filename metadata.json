@@ -1,0 +1,8 @@
+{
+  "name": "CIC Inventory - Quan Ly Kho Team CIC",
+  "description": "Hệ thống quản lý hàng tồn kho, nhập xuất tồn theo chi nhánh và tháng - Team CIC (Made by Ha Nhung logistic, Hotline: 0901601600)",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
